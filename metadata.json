@@ -1,0 +1,6 @@
+{
+  "name": "Alandi Yatra Management System",
+  "description": "Comprehensive portal for pilgrims, volunteers, and temple administration during Sant Dnyaneshwar Maharaj Palkhi Sohala and Alandi religious events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
